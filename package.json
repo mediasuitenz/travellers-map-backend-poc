@@ -1,0 +1,28 @@
+{
+  "name": "module-name",
+  "version": "0.0.1",
+  "description": "<description>",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter=spec test",
+    "lint": "jshint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:<username>/<reponame>.git"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "<name> <<email>>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/<username>/<reponame>/issues"
+  },
+  "homepage": "https://github.com/<username>/<reponame>",
+  "devDependencies": {
+    "chai": "*",
+    "jshint": "^2.5.1",
+    "mocha": "*"
+  }
+}
