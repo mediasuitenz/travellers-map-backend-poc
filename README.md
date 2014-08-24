@@ -24,5 +24,4 @@ as they happen
 
 ## Unsolved challenges
 
-- Probably performance bottleneck. If we have to calculate all the nodes city wide all at once thats a tonne of data
-- coming from the client which is bad and its a tonne of data to process in one go which could be slow and its a tonne of data to send back to the client in the form of a collection which is also bad... oh my!
+- Probably performance bottleneck. If we have to calculate all the nodes city wide all at once thats a tonne of data coming from the client which is bad and its a tonne of data to process in one go which could be slow and its a tonne of data to send back to the client in the form of a collection which is also bad... oh my!
