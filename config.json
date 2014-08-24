@@ -1,0 +1,12 @@
+{
+  "adapters": [
+    {
+      "name": "tmp",
+      "weight": 0.7
+    },
+    {
+      "name": "bluetooth",
+      "weight": 0.4
+    }
+  ]
+}
